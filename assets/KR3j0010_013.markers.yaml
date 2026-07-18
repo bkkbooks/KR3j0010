@@ -2242,6 +2242,7 @@ markers:
   - {type: punctuation, offset: 3906, content: (, id: KR3j0010_tls_013-bkkpn767}
   - {type: variant, offset: 3906, length: 1, content: 懾, WYG: ''}
   - {type: variant, offset: 3906, length: 1, content: 懾, krp: ''}
+  - {type: voice, offset: 3906, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3907, content: ), id: KR3j0010_tls_013-bkkpn768}
   - {type: punctuation, offset: 3909, content: ；, id: KR3j0010_tls_013-bkkpn769}
   - {type: 'tls:seg', offset: 3909, content: '', id: KR3j0010_tls_013-18a.60}
@@ -3235,6 +3236,7 @@ markers:
   - {type: punctuation, offset: 5648, content: d, id: KR3j0010_tls_013-bkkpn1092}
   - {type: variant, offset: 5648, length: 1, content: 俗, WYG: ''}
   - {type: variant, offset: 5648, length: 1, content: 俗, krp: ''}
+  - {type: voice, offset: 5648, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 5649, content: ), id: KR3j0010_tls_013-bkkpn1093}
   - {type: punctuation, offset: 5654, content: ；, id: KR3j0010_tls_013-bkkpn1094}
   - {type: 'tls:seg', offset: 5654, content: '', id: KR3j0010_tls_013-27a.4}
@@ -4705,4 +4707,4 @@ markers:
   - {type: page-break, offset: 8337, content: '', id: KR3j0010_WYG_013-32b, image: WYG0848/WYG0848-0664d.png}
   - {type: variant, offset: 8337, length: 0, content: '', krp: 淮南鴻烈解卷十三}
   back: []
-hash: sha256:069966274cb42c0bfed3e5b9661b41797b2ccc30857cd22755877bb30d6c80b8
+hash: sha256:a81f3692a17a31ee96b788f835fe68a100ee8cb924da5006745c6de06894010f
